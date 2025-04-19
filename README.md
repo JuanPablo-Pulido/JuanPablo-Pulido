@@ -36,4 +36,15 @@ I am a Mechatronics Engineer with experience in Quality Assurance and developmen
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+ 
+## Check out my Social Media
 
+<a href="https://www.linkedin.com/in/juanpa-pulido87543/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=JuanPablo-Pulido&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JuanPablo-Pulido)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JuanPablo-Pulido&theme=material-palenight)](https://github.com/JuanPablo-Pulido)
+</div>
