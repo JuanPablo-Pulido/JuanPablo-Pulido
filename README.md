@@ -1,8 +1,10 @@
 <h1 align="center"><b>Hi , I'm Juan Pablo Pulido Angel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<h2 align="center"><b>Quality Assurance Engineer</b></h2>
+<img align="right" width=300px alt="engineer" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
+ 
 I am a Mechatronics Engineer with experience in Quality Assurance and development. I am currently expanding my knowledge in test automation, frontend, and backend development. Throughout my professional journey, I have worked on implementing automation frameworks, such as Playwright, and designing processes to optimize software quality.
 - 📫 Reach out to me at: <a href="juanpulido87543@gmail.com">juanpulido87543@gmail.com</a>
 
